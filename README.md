@@ -13,7 +13,11 @@
 
 - 💬 Ask me about **a book I cherish and why it's special to me, or anything else you'd like to discuss.** 📚✨
 
-- 📫 How to reach me **alifhossain720@gmail.com**
+- 📫 How to reach me **** 
+<details>
+<summary>Click to reveal my email</summary>
+<p>Email: alifhossain720@gmail.com</p>
+</details>
 
 
 
