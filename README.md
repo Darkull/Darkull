@@ -35,8 +35,11 @@
 <a href="https://discord.gg/sK8bpSjx8F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sK8bpSjx8F" height="30" width="40" /></a>
 </p>
 
+
+<hr /> 
+
 <div align="center">
-  <p>How about I share a joke with you, my friend?</p>
+  <h3>How about I share a joke with you, my friend?😁</h3>
   <img src="https://readme-jokes.vercel.app/api?theme=vue-dark" alt="Jokes Card" />
 </div>
 
