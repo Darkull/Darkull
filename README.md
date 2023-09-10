@@ -168,6 +168,9 @@ height="40"
       </a>
     </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darkull&theme=city_lights)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkull&show_icons=true&locale=en&layout=compact" alt="darkull" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkull&show_icons=true&locale=en" alt="darkull" /></p>
