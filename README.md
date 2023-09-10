@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Click me](https://darkull.github.io/)
 
-- 💬 Ask me about **CSS, SASS, Tailwind**
+- 💬 Ask me about ** Ask me about a book I cherish and why it's special to me, or anything else you'd like to discuss. 📚✨**
 
 - 📫 How to reach me **alifhossain720@gmail.com**
 
@@ -35,6 +35,6 @@
 <a href="https://discord.gg/sK8bpSjx8F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sK8bpSjx8F" height="30" width="40" /></a>
 </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
 
 
