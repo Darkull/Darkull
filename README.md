@@ -2,9 +2,7 @@
 <h3 align="center">A dedicated MERN Stack focused developer hailing from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkull&label=Profile%20views&color=0e75b6&style=flat" alt="darkull" /> </p>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Darkul&label=Profile%20Views&color=1&pretty=true" />
-</a>
+
 <p align="left"> <a href="https://twitter.com/heisdarkull" target="blank"><img src="https://img.shields.io/twitter/follow/heisdarkull?logo=twitter&style=for-the-badge" alt="heisdarkull" /></a> </p>
 
 - 🔭 I’m currently working on **Encryption Project**
