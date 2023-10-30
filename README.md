@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [Click me](https://darkull.github.io/)
 
 - 💬 Ask me about **a book I cherish and why it's special to me, or anything else you'd like to discuss.** 📚✨
--📫 How to reach me alifhossainbits@gmail.com
+- 📫 How to reach me alifhossainbits@gmail.com
 
 
 
